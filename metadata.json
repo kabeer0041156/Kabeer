@@ -1,0 +1,6 @@
+{
+  "name": "Kabeer Travels - Vadodara Cab & Airport Taxi",
+  "description": "24x7 Airport Taxi, Outstation Cabs, Statue of Unity tours, and local car rentals in Vadodara, Gujarat.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
